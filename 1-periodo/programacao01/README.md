@@ -68,7 +68,7 @@ Execução de um conjunto de instruções de forma repetitiva utilizando estrutu
 
 ---
 
-## 💻 Atividades e exercícios
+## Atividades e exercícios
 
 Este diretório reúne os exercícios, atividades e projetos desenvolvidos durante a disciplina.
 
