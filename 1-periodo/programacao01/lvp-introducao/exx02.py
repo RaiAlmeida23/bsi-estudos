@@ -1,3 +1,6 @@
+# Escreva um programa que realize a leitura de dois números inteiros. 
+# O algoritmo deve calcular o resultado da multiplicação entre o primeiro e o segundo número e, em seguida, apresentar o valor total na saída de dados.
+
 def main():
     num1 = int(0)
     num2 = int(0)
