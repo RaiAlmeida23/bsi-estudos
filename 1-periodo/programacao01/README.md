@@ -81,6 +81,6 @@ programacao01/
 │   ├── lvp-introducao
 │   └── lvp-condicionais
 |
-└── projetos/
+└── provas/
     ├── prova1
     └── prova2
