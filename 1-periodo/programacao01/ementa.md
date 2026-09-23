@@ -75,7 +75,7 @@ Este diretório reúne os exercícios, atividades e projetos desenvolvidos duran
 ```text
 programacao01/
 │
-├── README.md
+├── ementa.md
 │
 ├── exercicios/
 │   ├── lvp-introducao
